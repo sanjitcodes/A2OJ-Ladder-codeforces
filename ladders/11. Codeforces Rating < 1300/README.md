@@ -1,6 +1,7 @@
 # Ladder Name: 11 - Codeforces Rating < 1300
 ## Description
- For beginners, unrated users or users with Codeforces Rating < 1300.
+ For beginners, unrated users or users with Codeforces Rating < 1300. <br/>
+ #CakeWalk
 ## Difficulty Level: 2
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
@@ -39,7 +40,7 @@
 |<ul><li> ✅ Done</li></ul>|32|[Jzzhu and Children](http://codeforces.com/problemset/problem/450/A)|Codeforces|2|
 |<ul><li> ✅ Done</li></ul>|33|[Supercentral Point](http://codeforces.com/problemset/problem/165/A)|Codeforces|2|
 |<ul><li> ✅ Done</li></ul>|34|[Petr and Book](http://codeforces.com/problemset/problem/139/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|35|[Parallelepiped](http://codeforces.com/problemset/problem/224/A)|Codeforces|2|
+|<ul><li> ✅ Done</li></ul>|35|[Parallelepiped](http://codeforces.com/problemset/problem/224/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|36|[Reconnaissance 2](http://codeforces.com/problemset/problem/34/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|37|[Even Odds](http://codeforces.com/problemset/problem/318/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|38|[Little Elephant and Rozdil](http://codeforces.com/problemset/problem/205/A)|Codeforces|2|
