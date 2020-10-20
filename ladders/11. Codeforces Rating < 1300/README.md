@@ -71,7 +71,7 @@
 |<ul><li> ✅ Done</li></ul>|63|[Little Girl and Game](http://codeforces.com/problemset/problem/276/B)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|64|[Sail](http://codeforces.com/problemset/problem/298/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|65|[Shower Line](http://codeforces.com/problemset/problem/431/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|66|[Shooshuns and Sequence ](http://codeforces.com/problemset/problem/222/A)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|66|[Shooshuns and Sequence ](http://codeforces.com/problemset/problem/222/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|67|[Xenia and Divisors](http://codeforces.com/problemset/problem/342/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|68|[Letter](http://codeforces.com/problemset/problem/43/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|69|[Kitahara Haruki's Gift](http://codeforces.com/problemset/problem/433/A)|Codeforces|3|
