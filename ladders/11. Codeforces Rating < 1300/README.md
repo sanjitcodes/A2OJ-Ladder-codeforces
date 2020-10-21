@@ -4,8 +4,8 @@
  #CakeWalk
 ## Difficulty Level: 2
 
-| Checkbox | ID  | Problem Name | Online Judge | Difficulty |
-|---|:---:|:---:|---|---|
+| Checkbox | ID  | Problem Name | Online Judge | Difficulty | Remarks |
+|---|:---:|:---:|---|---|---|
 |<ul><li> ✅ Done</li></ul>|1|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
 |<ul><li> ✅ Done</li></ul>|2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
 |<ul><li> ✅ Done</li></ul>|3|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
@@ -101,7 +101,7 @@
 |<ul><li>- [ ] Done</li></ul>|93|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|94|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|95|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4|
-|<ul><li> ✅ Done</li></ul>|96|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|
+|<ul><li> ✅ Done</li></ul>|96|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|Imp. Modulo Concept |
 |<ul><li>- [ ] Done</li></ul>|97|[Appleman and Card Game](http://codeforces.com/problemset/problem/462/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|98|[Sort the Array](http://codeforces.com/problemset/problem/451/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|99|[Sereja and Bottles](http://codeforces.com/problemset/problem/315/A)|Codeforces|4|
