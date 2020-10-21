@@ -101,7 +101,7 @@
 |<ul><li>- [ ] Done</li></ul>|93|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|94|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|95|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|96|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|
+|<ul><li> ✅ Done</li></ul>|96|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|97|[Appleman and Card Game](http://codeforces.com/problemset/problem/462/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|98|[Sort the Array](http://codeforces.com/problemset/problem/451/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|99|[Sereja and Bottles](http://codeforces.com/problemset/problem/315/A)|Codeforces|4|
