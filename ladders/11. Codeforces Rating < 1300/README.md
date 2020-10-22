@@ -104,5 +104,5 @@
 |<ul><li> ✅ Done</li></ul>|96|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|Imp. Modulo Concept |
 |<ul><li> ✅ Done</li></ul>|97|[Appleman and Card Game](http://codeforces.com/problemset/problem/462/B)|Codeforces|4|
 |<ul><li> ✅ Done</li></ul>|98|[Sort the Array](http://codeforces.com/problemset/problem/451/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|99|[Sereja and Bottles](http://codeforces.com/problemset/problem/315/A)|Codeforces|4|
+|<ul><li> ✅ Done</li></ul>|99|[Sereja and Bottles](http://codeforces.com/problemset/problem/315/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|100|[Adding Digits](http://codeforces.com/problemset/problem/260/A)|Codeforces|4|
