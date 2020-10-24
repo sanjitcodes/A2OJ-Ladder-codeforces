@@ -99,7 +99,7 @@
 |<ul><li>- [ ] Done</li></ul>|91|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|92|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|93|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|94|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|94|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces|3| STL um of pair concept |
 |<ul><li>- [ ] Done</li></ul>|95|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4|
 |<ul><li> ✅ Done</li></ul>|96|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|Imp. Modulo Concept |
 |<ul><li> ✅ Done</li></ul>|97|[Appleman and Card Game](http://codeforces.com/problemset/problem/462/B)|Codeforces|4|
