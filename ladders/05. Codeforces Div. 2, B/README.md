@@ -5,26 +5,26 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
+|<ul><li> ✅ Done</li></ul>|1|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|2|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|3|[Fedor and New Game](http://codeforces.com/problemset/problem/467/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|4|[Random Teams](http://codeforces.com/problemset/problem/478/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|5|[Vanya and Lanterns](http://codeforces.com/problemset/problem/492/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|6|[Sort the Array](http://codeforces.com/problemset/problem/451/B)|Codeforces|4|
+|<ul><li> ✅ Done</li></ul>|6|[Sort the Array](http://codeforces.com/problemset/problem/451/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|7|[Lecture](http://codeforces.com/problemset/problem/499/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|8|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|9|[Anton and currency you all know](http://codeforces.com/problemset/problem/508/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|10|[DZY Loves Strings](http://codeforces.com/problemset/problem/447/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|11|[Amr and Pins](http://codeforces.com/problemset/problem/507/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|12|[Little Pony and Sort by Shift](http://codeforces.com/problemset/problem/454/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|13|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|
+|<ul><li> ✅ Done</li></ul>|13|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|14|[Roadside Trees (Simplified Edition)](http://codeforces.com/problemset/problem/265/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|15|[Find Marble](http://codeforces.com/problemset/problem/285/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|16|[Suffix Structures](http://codeforces.com/problemset/problem/448/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|17|[Little Elephant and Magic Square](http://codeforces.com/problemset/problem/259/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|18|[OR in Matrix](http://codeforces.com/problemset/problem/486/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|19|[Football Kit](http://codeforces.com/problemset/problem/432/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|20|[Little Girl and Game](http://codeforces.com/problemset/problem/276/B)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|20|[Little Girl and Game](http://codeforces.com/problemset/problem/276/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|21|[Petya and Staircases](http://codeforces.com/problemset/problem/362/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|22|[Books](http://codeforces.com/problemset/problem/279/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|23|[Chat Online](http://codeforces.com/problemset/problem/469/B)|Codeforces|3|
@@ -42,7 +42,7 @@
 |<ul><li>- [ ] Done</li></ul>|35|[Combination](http://codeforces.com/problemset/problem/155/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|36|[Jeff and Periods](http://codeforces.com/problemset/problem/352/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|37|[Unary](http://codeforces.com/problemset/problem/133/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|38|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4|
+|<ul><li> ✅ Done</li></ul>|38|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|39|[Dima and To-do List](http://codeforces.com/problemset/problem/366/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|40|[Coins](http://codeforces.com/problemset/problem/58/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|41|[Han Solo and Lazer Gun](http://codeforces.com/problemset/problem/514/B)|Codeforces|4|
