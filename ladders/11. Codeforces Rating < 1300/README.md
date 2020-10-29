@@ -97,7 +97,7 @@
 |<ul><li>- [ ] Done</li></ul>|89|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|90|[Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|91|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|92|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|92|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|93|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|94|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces|3| STL um of pair concept |
 |<ul><li> ✅ Done</li></ul>|95|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4| Accha hai |
