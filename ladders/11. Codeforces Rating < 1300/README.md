@@ -74,8 +74,8 @@
 |<ul><li> ✅ Done</li></ul>|66|[Shooshuns and Sequence ](http://codeforces.com/problemset/problem/222/A)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|67|[Xenia and Divisors](http://codeforces.com/problemset/problem/342/A)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|68|[Letter](http://codeforces.com/problemset/problem/43/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|69|[Kitahara Haruki's Gift](http://codeforces.com/problemset/problem/433/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|70|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
+|<ul><li> 🚩 Done</li></ul>|69|[Kitahara Haruki's Gift](http://codeforces.com/problemset/problem/433/A)|Codeforces|3|
+|<ul><li> 🚩 Done</li></ul>|70|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3| O(N) me bhi TLE de rha hai😔 |
 |<ul><li>- [ ] Done</li></ul>|71|[Hungry Sequence](http://codeforces.com/problemset/problem/327/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|72|[Big Segment](http://codeforces.com/problemset/problem/242/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|73|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces|3|
@@ -96,7 +96,7 @@
 |<ul><li>- [ ] Done</li></ul>|88|[IQ Test](http://codeforces.com/problemset/problem/287/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|89|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|90|[Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|91|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
+|<ul><li> 🚩 Done</li></ul>|91|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3| Logic done.. but nhi hua acchhe se |
 |<ul><li> ✅ Done</li></ul>|92|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|93|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|94|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces|3| STL um of pair concept |
