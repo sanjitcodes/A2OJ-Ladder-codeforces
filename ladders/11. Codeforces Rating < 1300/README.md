@@ -94,7 +94,7 @@
 |<ul><li>- [ ] Done</li></ul>|86|[Rank List](http://codeforces.com/problemset/problem/166/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|87|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|88|[IQ Test](http://codeforces.com/problemset/problem/287/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|89|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|89|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|90|[Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B)|Codeforces|3|
 |<ul><li> 🚩⭐️ Done</li></ul>|91|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3| Logic done.. but nhi hua acchhe se |
 |<ul><li> ✅ Done</li></ul>|92|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
