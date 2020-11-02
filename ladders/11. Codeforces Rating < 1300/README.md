@@ -78,7 +78,7 @@
 |<ul><li> ✅ Done</li></ul>|70|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3| O(N) me bhi TLE de rha hai😔 |
 |<ul><li>- [ ] Done</li></ul>|71|[Hungry Sequence](http://codeforces.com/problemset/problem/327/B)|Codeforces|3| Simply first N primes |
 |<ul><li> ✅ Done</li></ul>|72|[Big Segment](http://codeforces.com/problemset/problem/242/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|73|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|73|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|74|[Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|75|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|76|[TL](http://codeforces.com/problemset/problem/350/A)|Codeforces|3|
