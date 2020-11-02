@@ -76,8 +76,8 @@
 |<ul><li> ✅ Done</li></ul>|68|[Letter](http://codeforces.com/problemset/problem/43/B)|Codeforces|3|
 |<ul><li> 🚩 Done</li></ul>|69|[Kitahara Haruki's Gift](http://codeforces.com/problemset/problem/433/A)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|70|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3| O(N) me bhi TLE de rha hai😔 |
-|<ul><li>- [ ] Done</li></ul>|71|[Hungry Sequence](http://codeforces.com/problemset/problem/327/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|72|[Big Segment](http://codeforces.com/problemset/problem/242/B)|Codeforces|3|
+|<ul><li>- [ ] Done</li></ul>|71|[Hungry Sequence](http://codeforces.com/problemset/problem/327/B)|Codeforces|3| Simply first N primes |
+|<ul><li> ✅ Done</li></ul>|72|[Big Segment](http://codeforces.com/problemset/problem/242/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|73|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|74|[Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|75|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
