@@ -92,7 +92,7 @@
 |<ul><li>- [ ] Done</li></ul>|84|[Domino](http://codeforces.com/problemset/problem/353/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|85|[Cinema Line](http://codeforces.com/problemset/problem/349/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|86|[Rank List](http://codeforces.com/problemset/problem/166/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|87|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
+|<ul><li> 🚩 Done</li></ul>|87|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3| #DP
 |<ul><li> ✅ Done</li></ul>|88|[IQ Test](http://codeforces.com/problemset/problem/287/A)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|89|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|90|[Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B)|Codeforces|3|
