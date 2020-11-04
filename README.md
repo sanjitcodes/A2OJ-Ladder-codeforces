@@ -1,4 +1,5 @@
 # A2OJ-Ladder
+## No FORKS are allowed... Just shoo off...
 ### Solving - 🔵 <br/>
 ### Solved AC - ✅ <br/>
 ### Important - 🚩 <br/> 
@@ -37,6 +38,5 @@
 |<ul><li>- [ ] Done</li></ul>|10|[Codeforces Div. 1, E](ladders/10.%20Codeforces%20Div.%201%2C%20E/README.md)|100|
 
 ## Further
--> simply fork the repository and work on your own on the problems and add your checkmarks. <br/>
 -> Suggestions and contributions are most welcomed.
 ### Thanks.. Cheers
