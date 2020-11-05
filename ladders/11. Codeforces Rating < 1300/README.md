@@ -89,7 +89,7 @@
 |<ul><li>- [ ] Done</li></ul>|81|[Easy Number Challenge](http://codeforces.com/problemset/problem/236/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|82|[Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|83|[Cards with Numbers](http://codeforces.com/problemset/problem/254/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|84|[Domino](http://codeforces.com/problemset/problem/353/A)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|84|[Domino](http://codeforces.com/problemset/problem/353/A)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|85|[Cinema Line](http://codeforces.com/problemset/problem/349/A)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|86|[Rank List](http://codeforces.com/problemset/problem/166/A)|Codeforces|3|
 |<ul><li> 🚩 Done</li></ul>|87|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3| #DP
