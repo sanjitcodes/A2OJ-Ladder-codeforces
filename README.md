@@ -1,9 +1,9 @@
 # A2OJ-Ladder
-## No FORKS are allowed... Just shoo off...
+## No FORKS are allowed...
 ### Solving - 🔵 <br/>
 ### Solved AC - ✅ <br/>
 ### Important - 🚩 <br/> 
-## My Codeforces handle : sanjit_15
+### My Codeforces handle : sanjit_15 
 
 | Checkbox | ID  | Name | Problems Count |
 |---|:---:|:---:|---|
