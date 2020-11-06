@@ -85,7 +85,7 @@
 |<ul><li>- [ ] Done</li></ul>|77|[Increase and Decrease](http://codeforces.com/problemset/problem/246/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|78|[Two Bags of Potatoes](http://codeforces.com/problemset/problem/239/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|79|[Unlucky Ticket](http://codeforces.com/problemset/problem/160/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|80|[Boys and Girls](http://codeforces.com/problemset/problem/253/A)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|80|[Boys and Girls](http://codeforces.com/problemset/problem/253/A)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|81|[Easy Number Challenge](http://codeforces.com/problemset/problem/236/B)|Codeforces|3| Ek chutki dp ki keemat..🙄 |
 |<ul><li>- [ ] Done</li></ul>|82|[Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|83|[Cards with Numbers](http://codeforces.com/problemset/problem/254/A)|Codeforces|3|
