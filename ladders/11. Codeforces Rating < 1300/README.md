@@ -81,7 +81,7 @@
 |<ul><li> ✅ Done</li></ul>|73|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|74|[Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|75|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|76|[TL](http://codeforces.com/problemset/problem/350/A)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|76|[TL](http://codeforces.com/problemset/problem/350/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|77|[Increase and Decrease](http://codeforces.com/problemset/problem/246/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|78|[Two Bags of Potatoes](http://codeforces.com/problemset/problem/239/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|79|[Unlucky Ticket](http://codeforces.com/problemset/problem/160/B)|Codeforces|3|
