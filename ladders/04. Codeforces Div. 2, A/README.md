@@ -5,13 +5,13 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Watermelon](http://codeforces.com/problemset/problem/4/A)|Codeforces|1|
+|<ul><li> ✅  Done</li></ul>|1|[Watermelon](http://codeforces.com/problemset/problem/4/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|2|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|3|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|4|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|5|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|6|[Twins](http://codeforces.com/problemset/problem/160/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|7|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
+|<ul><li> ✅ Done</li></ul>|7|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|8|[Lucky Division](http://codeforces.com/problemset/problem/122/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|9|[Presents](http://codeforces.com/problemset/problem/136/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|10|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
@@ -19,7 +19,7 @@
 |<ul><li>- [ ] Done</li></ul>|12|[Game With Sticks](http://codeforces.com/problemset/problem/451/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|13|[Games](http://codeforces.com/problemset/problem/268/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|14|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|15|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
+|<ul><li> ✅ Done</li></ul>|15|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|16|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|17|[Expression](http://codeforces.com/problemset/problem/479/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|18|[Anton and Letters](http://codeforces.com/problemset/problem/443/A)|Codeforces|1|
@@ -33,7 +33,7 @@
 |<ul><li>- [ ] Done</li></ul>|26|[Team Olympiad](http://codeforces.com/problemset/problem/490/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|27|[Devu, the Singer and Churu, the Joker](http://codeforces.com/problemset/problem/439/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|28|[Fox And Snake](http://codeforces.com/problemset/problem/510/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|29|[IQ test](http://codeforces.com/problemset/problem/25/A)|Codeforces|1|
+|<ul><li> ✅ Done</li></ul>|29|[IQ test](http://codeforces.com/problemset/problem/25/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|30|[Choosing Teams](http://codeforces.com/problemset/problem/432/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|31|[Cakeminator](http://codeforces.com/problemset/problem/330/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|32|[Valera and Antique Items](http://codeforces.com/problemset/problem/441/A)|Codeforces|2|
@@ -52,17 +52,17 @@
 |<ul><li>- [ ] Done</li></ul>|45|[Supercentral Point](http://codeforces.com/problemset/problem/165/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|46|[Roma and Lucky Numbers](http://codeforces.com/problemset/problem/262/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|47|[Contest](http://codeforces.com/problemset/problem/501/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|48|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|49|[TL](http://codeforces.com/problemset/problem/350/A)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|48|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|49|[TL](http://codeforces.com/problemset/problem/350/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|50|[Marks](http://codeforces.com/problemset/problem/152/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|51|[Colorful Stones (Simplified Edition)](http://codeforces.com/problemset/problem/265/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|52|[Domino](http://codeforces.com/problemset/problem/353/A)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|52|[Domino](http://codeforces.com/problemset/problem/353/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|53|[Cifera](http://codeforces.com/problemset/problem/114/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|54|[Array](http://codeforces.com/problemset/problem/300/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|55|[Fox and Number Game](http://codeforces.com/problemset/problem/389/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|56|[Giga Tower](http://codeforces.com/problemset/problem/488/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|57|[Parallelepiped](http://codeforces.com/problemset/problem/224/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|58|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|58|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|59|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|60|[Life Without Zeros](http://codeforces.com/problemset/problem/75/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|61|[Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A)|Codeforces|3|
@@ -77,7 +77,7 @@
 |<ul><li>- [ ] Done</li></ul>|70|[Table](http://codeforces.com/problemset/problem/359/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|71|[Eugeny and Array](http://codeforces.com/problemset/problem/302/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|72|[Dima and Continuous Line](http://codeforces.com/problemset/problem/358/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|73|[Reconnaissance 2](http://codeforces.com/problemset/problem/34/A)|Codeforces|2|
+|<ul><li> ✅  Done</li></ul>|73|[Reconnaissance 2](http://codeforces.com/problemset/problem/34/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|74|[Help Vasilisa the Wise 2](http://codeforces.com/problemset/problem/143/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|75|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|76|[Palindromic Times](http://codeforces.com/problemset/problem/108/A)|Codeforces|2|
