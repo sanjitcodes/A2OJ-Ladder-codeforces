@@ -6,7 +6,7 @@
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
 |<ul><li>- [ ] Done</li></ul>|1|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
+|<ul><li> ✅ Done</li></ul>|2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|3|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|4|[Blackjack](http://codeforces.com/problemset/problem/104/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|5|[HQ9+](http://codeforces.com/problemset/problem/133/A)|Codeforces|1|
@@ -19,9 +19,9 @@
 |<ul><li>- [ ] Done</li></ul>|12|[Lunch Rush](http://codeforces.com/problemset/problem/276/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|13|[Cakeminator](http://codeforces.com/problemset/problem/330/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|14|[Stones on the Table](http://codeforces.com/problemset/problem/266/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|15|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
+|<ul><li>  ✅ Done</li></ul>|15|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|16|[Levko and Table](http://codeforces.com/problemset/problem/361/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|17|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
+|<ul><li>  ✅ Done</li></ul>|17|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|18|[Chips](http://codeforces.com/problemset/problem/92/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|19|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|20|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
@@ -71,7 +71,7 @@
 |<ul><li>- [ ] Done</li></ul>|64|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|65|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|66|[Simple Molecules](http://codeforces.com/problemset/problem/344/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|67|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
+|<ul><li>  ✅ Done</li></ul>|67|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|68|[Fixed Points](http://codeforces.com/problemset/problem/347/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|69|[Hungry Sequence](http://codeforces.com/problemset/problem/327/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|70|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
@@ -79,14 +79,14 @@
 |<ul><li>- [ ] Done</li></ul>|72|[Little Girl and Game](http://codeforces.com/problemset/problem/276/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|73|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|74|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|75|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
+|<ul><li>  ✅ Done</li></ul>|75|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|76|[Ilya and Queries](http://codeforces.com/problemset/problem/313/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|77|[Little Dima and Equation](http://codeforces.com/problemset/problem/460/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|78|[George and Job](http://codeforces.com/problemset/problem/467/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|79|[Sereja and Bottles](http://codeforces.com/problemset/problem/315/A)|Codeforces|4|
+|<ul><li>  ✅ Done</li></ul>|79|[Sereja and Bottles](http://codeforces.com/problemset/problem/315/A)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|80|[Routine Problem](http://codeforces.com/problemset/problem/337/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|81|[Hamburgers](http://codeforces.com/problemset/problem/371/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|82|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|
+|<ul><li>  ✅ Done</li></ul>|82|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|83|[Flag Day](http://codeforces.com/problemset/problem/357/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|84|[Valera and Fruits](http://codeforces.com/problemset/problem/441/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|85|[Fox Dividing Cheese](http://codeforces.com/problemset/problem/371/B)|Codeforces|4|
