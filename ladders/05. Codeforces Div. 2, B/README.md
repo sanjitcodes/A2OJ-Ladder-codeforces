@@ -23,9 +23,9 @@
 |<ul><li>- [ ] Done</li></ul>|16|[Suffix Structures](http://codeforces.com/problemset/problem/448/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|17|[Little Elephant and Magic Square](http://codeforces.com/problemset/problem/259/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|18|[OR in Matrix](http://codeforces.com/problemset/problem/486/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|19|[Football Kit](http://codeforces.com/problemset/problem/432/B)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|19|[Football Kit](http://codeforces.com/problemset/problem/432/B)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|20|[Little Girl and Game](http://codeforces.com/problemset/problem/276/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|21|[Petya and Staircases](http://codeforces.com/problemset/problem/362/B)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|21|[Petya and Staircases](http://codeforces.com/problemset/problem/362/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|22|[Books](http://codeforces.com/problemset/problem/279/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|23|[Chat Online](http://codeforces.com/problemset/problem/469/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|24|[Painting Pebbles](http://codeforces.com/problemset/problem/509/B)|Codeforces|2|
