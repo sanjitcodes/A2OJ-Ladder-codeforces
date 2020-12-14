@@ -29,7 +29,7 @@
 |<ul><li> ✅ Done</li></ul>|22|[Books](http://codeforces.com/problemset/problem/279/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|23|[Chat Online](http://codeforces.com/problemset/problem/469/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|24|[Painting Pebbles](http://codeforces.com/problemset/problem/509/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|25|[Vasya and Wrestling](http://codeforces.com/problemset/problem/493/B)|Codeforces|4|
+|<ul><li> ✅ Done</li></ul>|25|[Vasya and Wrestling](http://codeforces.com/problemset/problem/493/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|26|[George and Round](http://codeforces.com/problemset/problem/387/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|27|[The Fibonacci Segment](http://codeforces.com/problemset/problem/365/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|28|[Trace](http://codeforces.com/problemset/problem/157/B)|Codeforces|2|
