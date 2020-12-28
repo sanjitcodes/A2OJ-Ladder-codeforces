@@ -40,7 +40,7 @@
 |<ul><li>- [ ] Done</li></ul>|33|[Painting Eggs](http://codeforces.com/problemset/problem/282/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|34|[Lucky Substring](http://codeforces.com/problemset/problem/122/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|35|[Combination](http://codeforces.com/problemset/problem/155/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|36|[Jeff and Periods](http://codeforces.com/problemset/problem/352/B)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|36|[Jeff and Periods](http://codeforces.com/problemset/problem/352/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|37|[Unary](http://codeforces.com/problemset/problem/133/B)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|38|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|39|[Dima and To-do List](http://codeforces.com/problemset/problem/366/B)|Codeforces|3|
