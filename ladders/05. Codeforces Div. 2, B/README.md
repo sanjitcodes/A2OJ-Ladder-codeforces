@@ -45,7 +45,7 @@
 |<ul><li> ✅ Done</li></ul>|38|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|39|[Dima and To-do List](http://codeforces.com/problemset/problem/366/B)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|40|[Coins](http://codeforces.com/problemset/problem/58/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|41|[Han Solo and Lazer Gun](http://codeforces.com/problemset/problem/514/B)|Codeforces|4|
+|<ul><li> ✅ Done</li></ul>|41|[Han Solo and Lazer Gun](http://codeforces.com/problemset/problem/514/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|42|[Garland](http://codeforces.com/problemset/problem/408/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|43|[Flag Day](http://codeforces.com/problemset/problem/357/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|44|[Art Union](http://codeforces.com/problemset/problem/416/B)|Codeforces|3|
