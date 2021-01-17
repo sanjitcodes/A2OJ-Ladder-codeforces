@@ -52,7 +52,7 @@
 |<ul><li> ✅ Done</li></ul>|45|[Lucky String](http://codeforces.com/problemset/problem/110/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|46|[Petya and Countryside](http://codeforces.com/problemset/problem/66/B)|Codeforces|2|
 |<ul><li> ✅ Done</li></ul>|47|[Archer](http://codeforces.com/problemset/problem/312/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|48|[Routine Problem](http://codeforces.com/problemset/problem/337/B)|Codeforces|4|
+|<ul><li> ✅ Done</li></ul>|48|[Routine Problem](http://codeforces.com/problemset/problem/337/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|49|[Color the Fence](http://codeforces.com/problemset/problem/349/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|50|[Levko and Permutation](http://codeforces.com/problemset/problem/361/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|51|[Vasya's Calendar](http://codeforces.com/problemset/problem/182/B)|Codeforces|1|
