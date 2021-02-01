@@ -58,7 +58,7 @@
 |<ul><li> ✅ Done</li></ul>|51|[Vasya's Calendar](http://codeforces.com/problemset/problem/182/B)|Codeforces|1|
 |<ul><li> ✅ Done</li></ul>|52|[Reading](http://codeforces.com/problemset/problem/234/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|53|[Phone Numbers](http://codeforces.com/problemset/problem/151/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|54|[Permutation](http://codeforces.com/problemset/problem/359/B)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|54|[Permutation](http://codeforces.com/problemset/problem/359/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|55|[Students and Shoelaces](http://codeforces.com/problemset/problem/129/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|56|[Help Kingdom of Far Far Away 2](http://codeforces.com/problemset/problem/143/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|57|[The Child and Set](http://codeforces.com/problemset/problem/437/B)|Codeforces|4|
