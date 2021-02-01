@@ -56,7 +56,7 @@
 |<ul><li>- [ ] Done</li></ul>|49|[Color the Fence](http://codeforces.com/problemset/problem/349/B)|Codeforces|4|
 |<ul><li> ✅ Done</li></ul>|50|[Levko and Permutation](http://codeforces.com/problemset/problem/361/B)|Codeforces|3|
 |<ul><li> ✅ Done</li></ul>|51|[Vasya's Calendar](http://codeforces.com/problemset/problem/182/B)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|52|[Reading](http://codeforces.com/problemset/problem/234/B)|Codeforces|3|
+|<ul><li> ✅ Done</li></ul>|52|[Reading](http://codeforces.com/problemset/problem/234/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|53|[Phone Numbers](http://codeforces.com/problemset/problem/151/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|54|[Permutation](http://codeforces.com/problemset/problem/359/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|55|[Students and Shoelaces](http://codeforces.com/problemset/problem/129/B)|Codeforces|3|
