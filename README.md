@@ -1,5 +1,4 @@
 # A2OJ-Ladder
-## No FORKS please😅...
 ### Solving - 🔵 <br/>
 ### Solved AC - ✅ <br/>
 ### Important - 🚩 <br/> 
